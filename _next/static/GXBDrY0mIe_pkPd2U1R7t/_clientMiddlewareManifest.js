@@ -1,0 +1,1 @@
+self.__CLIENT_MIDDLEWARE_MANIFEST={global:["static/chunks/1scs3-v_g4tkg.js"],pages:{}};

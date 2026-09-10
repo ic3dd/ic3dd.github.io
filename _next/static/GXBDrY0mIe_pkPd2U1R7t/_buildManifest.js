@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST=function(s,c){return{__rewrites:{afterFiles:[],beforeFiles:[],fallback:[]},"/":[s,"static/chunks/0cz1d0mv5g_q7.js",c,"static/chunks/3fntmmi971322.js"]}}("static/chunks/0qp9pvyuvily_.css","static/chunks/0y0ht2z0-_d7p.js");
